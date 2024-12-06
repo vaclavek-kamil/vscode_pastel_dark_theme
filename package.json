@@ -2,7 +2,7 @@
   "name": "pastel-dark",
   "displayName": "pastel_dark",
   "description": "Beautiful yet simple theme built on top of Github Theme Dark Default",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.x.x"
   },
