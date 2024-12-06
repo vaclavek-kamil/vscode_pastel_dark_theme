@@ -621,15 +621,15 @@
       }
     },
     {
-      "scope": "comment",
+      "scope": ["punctuation.definition.comment"],
       "settings": {
-        "foreground": "#8877bb" //////////////
+        "foreground": "#443366"
       }
     },
     {
-      "scope": ["punctuation.definition.comment"],
+      "scope": ["comment.line", "comment.block"],
       "settings": {
-        "foreground": "#443366" //////////////
+        "foreground": "#8877bb"
       }
     },
     {
