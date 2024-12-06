@@ -623,13 +623,13 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#443355"
+        "foreground": "#8877bb" //////////////
       }
     },
     {
-      "scope": ["comment.block", "comment.line"],
+      "scope": ["punctuation.definition.comment"],
       "settings": {
-        "foreground": "#443355"
+        "foreground": "#443366" //////////////
       }
     },
     {
