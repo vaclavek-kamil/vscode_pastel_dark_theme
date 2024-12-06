@@ -4,8 +4,9 @@
   "description": "Beautiful yet simple theme built on top of Github Theme Dark Default",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.95.0"
+    "vscode": "^1.x.x"
   },
+  "publisher": "vackam",
   "categories": [
     "Themes"
   ],
