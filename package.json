@@ -1,0 +1,21 @@
+{
+  "name": "pastel-dark",
+  "displayName": "pastel_dark",
+  "description": "Beautiful yet simple theme built on top of Github Theme Dark Default",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pastel Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pastel Dark-color-theme.json"
+      }
+    ]
+  }
+}
