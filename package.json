@@ -17,5 +17,9 @@
         "path": "./themes/Pastel Dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaclavek-kamil/vscode_pastel_dark_theme"
   }
 }
